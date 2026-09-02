@@ -13,5 +13,40 @@
     "sha256": "5c1c34482d35cdf62e40937f300c6c431ec3a0d866b77dbb3c09acd6886498de",
     "chunkCount": 50,
     "ingestedAt": "2026-09-02T10:38:07.817Z"
+  },
+  "COAL/Assembly Language Programming Notes by Bial Hashmi.txt": {
+    "sha256": "0bfcfb78f5c3a6dd8a11b695cd41991df74d6d15102b97440658dfacb6d35523",
+    "chunkCount": 198,
+    "ingestedAt": "2026-09-02T14:56:39.725Z"
+  },
+  "COAL/COAL Lab Manual.txt": {
+    "sha256": "6f21c4827299713d1257caa9234b47db1f8477d52a353eaea61d1fccacae861e",
+    "chunkCount": 5,
+    "ingestedAt": "2026-09-02T14:56:39.999Z"
+  },
+  "COAL/Computer Organization with ARM64.txt": {
+    "sha256": "e54f803160f590ac251987cf6b9e97e70e76f1de4667a82dc1f82ca4cce540f1",
+    "chunkCount": 251,
+    "ingestedAt": "2026-09-02T14:58:00.612Z"
+  },
+  "COAL/Computer Systems.txt": {
+    "sha256": "e8034fbcc0ae639feec102f870779cc38aa2a433f4c7217c3fb564773e718b1f",
+    "chunkCount": 136,
+    "ingestedAt": "2026-09-02T14:58:33.811Z"
+  },
+  "COAL/DCAP206_INTRODUCTION_TO_COMPUTER_ORGANIZATION_AND_ARCHITECTURE_DCAP502_COMPUTER_ORGANIZATION_AND_ARCHITECTURE.txt": {
+    "sha256": "a4b6c325eb920b3e89a4a0782133e35392f367e8c502d36e7e0ac7baf87e2794",
+    "chunkCount": 181,
+    "ingestedAt": "2026-09-02T14:59:22.631Z"
+  },
+  "COAL/Introduction to Assembly Language Programming_ From Soup to Nuts_.txt": {
+    "sha256": "9ee0b5e4fc4be91a926dfb43e7f4e6d9a451ee0895aab53f92c9d16039d24d20",
+    "chunkCount": 138,
+    "ingestedAt": "2026-09-02T14:59:55.497Z"
+  },
+  "COAL/MIPStextSMv11 (1).txt": {
+    "sha256": "9cf0a5811e610331069ba5f96a8205583a245fec2d8e946747904f05f71a041b",
+    "chunkCount": 66,
+    "ingestedAt": "2026-09-02T15:00:12.659Z"
   }
 }
